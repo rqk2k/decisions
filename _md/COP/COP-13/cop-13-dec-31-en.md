@@ -1,0 +1,64 @@
+# CBD/COP/DEC/XIII/31
+
+13 December 2016
+
+## XIII/31. Key scientific and technical needs related to the implementation of the Strategic Plan for Biodiversity 2011-2020 and related research
+
+_The Conference of the Parties,_
+
+_Recalling_ the key scientific and technical needs identified by the Subsidiary Body in recommendation XVII/1 and paragraphs 14 to 16 of decision [XII/1](https://www.cbd.int/decisions/cop/12/01) of the Conference of the Parties:
+
+1. _Welcomes_ the ongoing efforts of partner organizations to support Parties in addressing the scientific and technical needs related to the implementation of the Strategic Plan for Biodiversity 2011‑2020;
+
+2. _Also welcomes_ the outcomes of the third Science for Biodiversity Forum[^1] and the commitment of the scientific community gathered in Cancun, and _invites_ Parties to make use of those outcomes;
+
+3. _Further welcomes_ the collaboration of Parties with relevant organizations to strengthen biodiversity monitoring systems:
+
+4. _Welcomes_ the Global Biodiversity Informatics Outlook, and, recalling paragraph [3](https://www.cbd.int/decisions/cop/08/11/03) of decision [VIII/11](https://www.cbd.int/decisions/cop/08/11), paragraph [13](https://www.cbd.int/decisions/cop/11/02/13) of decision [XI/2](https://www.cbd.int/decisions/cop/11/02), and Action 6 of the capacity-building strategy for the Global Taxonomy Initiative,[^2] invite Parties and relevant organizations to further promote open access to biodiversity-related data and transparency in the development of derived metrics and, to this end, to consider, as appropriate, the voluntary quidance annexed to the present decision;
+
+5. _Requests_ the Executive Secretary:
+   (a) To continue collaboration with the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, the United Nations Environment Programme and other partners to promote the coordinated development of existing portals to facilitate access to policy support tools and methodologies, as well as to related case studies and evaluations of the use and effectiveness of such tools, taking into account the different capacities and capabilities of countries;
+   (b) To collaborate with relevant organizations to promote tools and methodologies for assessing the contribution of indigenous peoples and local communities to the conservation and sustainable use of biodiversity, and to make these tools and methodologies available through the clearing-house mechanism of the Convention and by other means;
+   (c) To collaborate with relevant organizations for compiling information on tools to support the implementation of the Strategic Plan for Biodiversity 2011-2020, including those areas in which gaps have been identified, in particular methods to assess motives for and barriers to behavioural change, social marketing strategies, engagement techniques and participatory processes and mechanisms to promote the development of social, moral and economic incentives, taking into account cultural and socioeconomic differences among countries and regions, for people to sustainably manage biodiversity and ecosystem functions and services;
+   (d) To invite Parties, especially developing countries, to provide information on their priorities and needs related to the implementation of Article 12 of the Convention and to compile this information to inform future work under the Convention;
+   (e) To develop, through the Liaison Group of Biodiversity-related Conventions and in collaboration with other relevant organizations, actions for an enhanced collaborative framework to guide the work of the conventions and their partners and to assist Parties in meeting Aichi Biodiversity Target 12, subject to the availability of resources, and to submit the actions to the Subsidiary Body at a meeting prior to the fourteenth meeting of the Conference of the Parties;
+   (f) To report on the above to the Subsidiary Body on Scientific, Technical and Technological Advice at a meeting prior to the fourteenth meeting of the Conference of the Parties;
+
+6. _Encourages_ Parties:
+   (a) To further work to identify their biodiversity monitoring, assessment, project implementation, and research needs at the national level;
+   (b) To strengthen in-country efforts to link science and policy, including through increased and enhanced communication between data providers and users, including decision makers, to improve decision-making;
+   (c) To make full use of the clearing‑house mechanism to share information, particularly, with regard to paragraph 4 of the voluntary guidance to improve the accessibility of biodiversityrelated data and information;
+   (d) To provide support for biodiversity monitoring, assessment, project implementation, and research;
+   (e) To increase national, regional and global efforts related to the promotion of research programmes related to the objectives of the Convention, taking into account Article 12 of the Convention and Aichi Biodiversity Target 19;
+   (f) To increase awareness of the Global Taxonomy Initiative and to implement its Capacity‑Building Strategy (decision XI/29);
+   (g) To support the development, with the assistance, as appropriate, of the international barcode of life network, of DNA sequence-based technology (DNA barcoding) and associated DNA barcode reference libraries for priority taxonomic groups of organisms, to promote the application of these techniques for the conservation and sustainable use of biodiversity, and to support related capacity-building activities, including relevant academic training, as appropriate, further to the Strategic Actions 3 and 4 of the capacity-building strategy for the Global Taxonomy Initiative;
+   (h) To continue to promote awareness about the role of traditional knowledge systems and the collective actions of indigenous peoples and local communities to complement the scientific knowledge in support of the effective implementation of the Strategic Plan for Biodiversity 2011-2020;
+   (i) To take into consideration the important work undertaken by indigenous peoples and local communities related to taxonomy.
+
+## Annex
+
+### Voluntary guidance to improve the accessibility of biodiversity-related data and information
+
+1. **Promote open data access through policy incentives.** Reluctance to share scientific data from research remains a significant cultural barrier to biodiversity data access. Government regulation and incentives can stimulate an open access culture by, for example, requiring publication of all data acquired through publicly-funded research projects using an open data licence to enable reuse with as few restrictions as possible.
+
+2. **Promote the use of common data standards.** Biodiversity data are truly accessible only if they are expressed using commonly accepted information standards, enabling the integration and discovery of data sets from many different types of biodiversity evidence – including, for example, specimens from natural history collections, field observations and remote-sensed data. Governments can take the lead by insisting that all biodiversity data from public monitoring and research programmes use standards endorsed by such bodies as Biodiversity Information Standards (www.tdwg.org).
+
+3. **Invest in the digitization of natural history collections.** Natural history museums and herbaria contain a wealth of information documenting biodiversity from the earliest days of exploration of the natural world to recent collection activities. While millions of specimens are already digitized and accessible to researchers via the Internet, many collections remain undigitized or only partially accessible electronically. Investment in digitization, using public funds or leveraging donations from the private sector or charitable foundations, will yield returns by reducing the time needed for researchers to access data and information from dispersed institutions.
+
+4. **Establish national biodiversity information facilities.** Effective access to biodiversity data and information requires national coordination to promote and facilitate the sharing of data by diverse stakeholders, using appropriate standards and best practices on such issues as data quality. This may be most effectively achieved through a mandate to an appropriate national institution to coordinate such activity among biodiversity data holders and users in the country. An inclusive governance structure for such "biodiversity information facilities" will help achieve neutrality for the coordinating unit and overcome reluctance to share data among particular institutions. The Global Biodiversity Information Facility provides guidance on establishing such units based on its model of "participant nodes".
+
+5. **Enhance national capacity in biodiversity informatics.** Improved access to biodiversity data and information requires a base of professionals in relevant institutions familiar with the tools and best practices required to generate, manage, publish and use digital data. Governments can build and enhance such capacity by supporting training programmes and workshops operated by various national, regional and global networks, and by developing projects through funded capacity enhancement programmes operated by the Global Biodiversity Information Facility and other networks.
+
+6. **Engage the public in biodiversity observation through citizen science networks.** Data derived from observations of the natural world by volunteer "citizen scientists" are becoming an increasingly important source of evidence for research and policy on biodiversity. Support for such initiatives, including processes to validate and curate the resulting data, and inclusion of volunteer networks in national biodiversity information facilities, helps both to increase public awareness of biodiversity (supporting Aichi Target 1) and to broaden the evidence base for research and decisions.
+
+7. **Encourage data sharing from the private sector.** Biodiversity data generated in the course of environmental impact assessments (EIAs) are potentially valuable sources of evidence for reuse in research and subsequent development decisions. The primary (species-level) data underlying EIAs often remains hidden from view even when the consultant reports are published, and are rarely shared in formats that would make them accessible for future use. National and subnational regulators can help unlock such data by requiring developers to publish them using standard open data formats, as part of the planning approval process.
+
+8. **Develop national platforms for data discovery, visualization and use.** For mobilized data to have maximum impact, Governments may wish to develop web platforms and means of data visualization that meet national needs and priorities. Data shared by institutions in a country can be "harvested" simultaneously by national, regional and global portals, while national portals can also "repatriate" data relating to the country's biodiversity shared from overseas institutions. This can help to show the value of data sharing to national stakeholders and research users, as well as providing an educational platform for citizens to understand more about their country's biodiversity. Collaborative networks on regional and global scales can help countries to identify and apply appropriate technologies to develop such platforms.
+
+9. **Analyse data and information gaps to prioritize new data mobilization.** Improving access to biodiversity data and information is a cumulative process and will never mobilize all potential sources of evidence. Governments can prioritize investments in data mobilization activities by using emerging tools and methodologies to identify gaps, based on taxonomic, temporal and spatial coverage, or policy needs, such as thematic assessments on biodiversity and ecosystem services.
+
+10. **Engage with and support regional and global networks for data mobilization and access.** The transnational nature of biodiversity and ecosystems makes it impossible for any one country to improve access to relevant biodiversity data and information without engaging with data-sharing initiatives on regional and global scales. Engagement with and investment in such networks bring common benefits that would not arise from purely national investments. On a global scale, continued support from Governments for networks such as the Global Biodiversity Information Facility, the Ocean Biogeographic Information System (OBIS) and Group on Earth Observations Biodiversity Observation Network (GEO-BON) will help these benefits to consolidate and grow for all Parties.
+
+[^1]: [UNEP/CBD/COP/13/INF/44](https://www.cbd.int/documents/UNEP/CBD/COP/13/INF/44).
+
+[^2]: Decision [XI/29](https://www.cbd.int/decisions/cop/11/29), annex.
