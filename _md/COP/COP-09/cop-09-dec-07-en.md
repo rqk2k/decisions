@@ -1,0 +1,51 @@
+# UNEP/CBD/COP/DEC/IX/7
+
+9 October 2008
+
+## IX/7. Ecosystem approach
+
+_The Conference of the Parties,_
+
+_Noting_ that, at its twelfth meeting, the Subsidiary Body on Scientific, Technical and Technological Advice, in its consideration of the in-depth review of the application of the ecosystem approach, based on background documentation available, expert inputs and scientific dialogue, brought to the attention of the Conference of the Parties, other Governments, and relevant international and other organizations the following range of views ([UNEP/CBD/COP/9/2](https://www.cbd.int/documents/UNEP/CBD/COP/9/2), annex, recommendation XII/1, para. 1),
+
+- (a) The ecosystem approach remains a useful normative framework for bringing together social, economic, cultural and environmental values. The needs are to translate this normative framework into methods for further application which are tailored to the needs of specific users;
+- (b) "One-size-fits-all" solutions for the ecosystem approach are neither feasible nor desirable. The application of the ecosystem approach should be regarded as a process where learning by doing is the priority need at present;
+- (c) Global assessments suggest that the ecosystem approach is not being applied systematically to reduce the rate of biodiversity loss, but there are many examples of successful application at the regional, national and local scales which should be widely promoted and communicated. Most of these examples can be considered as positive outcomes for both biodiversity and human well-being;
+- (d) There is experience with application, in particular at the local level, but the ecosystem approach needs to be applied much more broadly across all levels, with active participation of all relevant sectors and stakeholders. The need now is to enhance access and awareness with the transmission of straight forward messages using practical tools;
+- (e) Wider adoption of the ecosystem approach can contribute to the achievement of the Millennium Development Goals;
+- (f) The full application of the approach in all of its ecological, social, economic, cultural and political dimensions remains a formidable task, particularly at the larger scale. There is a clear need to communicate and illustrate it more clearly in order to expedite broader application. There are ongoing efforts to promote this approach. Some initiatives mentioned at the meeting included the "Mountains to the Sea" concept, originally proposed by the Ramsar Convention and partners, as currently being promoted by the Worldwide Fund for Nature (WWF), and the "Five Steps to Implementation" developed by the International Union for the Conservation of Nature Commission on Ecosystem Management (IUCN-CEM), the Large Marine Ecosystem projects supported by the Global Environment Facility and the Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific and Cultural Organization and other partners;
+- (g) The Millennium Ecosystem Assessment findings and, in particular their articulation of the role of ecosystem goods and services to human well-being could be more widely taken into account in the application of the ecosystem approach as appropriate;
+- (h) There is a need for promoters and leaders for the application of the ecosystem approach that can promote wider application through demonstration of the benefits of doing so amongst their peers and at their level of operation;
+- (i) The development of standards and indicators for the application of ecosystem approach is in its infancy. Focusing on these needs would constrain further application at present and divert attention from the more pressing need for expanded application through the development of appropriate tools and mechanisms and through learning by doing;
+- (j) Capacity-building remains the priority. Needs exist across all sectors, biomes, levels and scales. There is a need to strengthen partnerships and coordination between the relevant United Nations bodies and processes and other relevant institutions so that more effective support to Parties to apply the ecosystem approach can be offered;
+- (k) Some Parties expressed the view that the principles of the ecosystem approach need to be considered at the earliest stage of policy-making and planning at all levels that relate to or affect natural resources and can be useful in poverty reduction strategies,
+
+1. _Urges_ Parties, other Governments and relevant organizations, as appropriate, and subject to funding and availability of technical capacity, to:
+   (a) Strengthen and promote the use of the ecosystem approach more widely and effectively as a useful tool for formulation and implementation of national biodiversity strategies and action plans and in other relevant policy mechanisms, in ongoing communication, education and public-awareness activities as well as in participatory decision-making processes at different levels;
+   (b) Further promote the use of the ecosystem approach in all sectors and enhance inter‑sectoral cooperation, as well as promote the establishment of concrete national and/or regional initiatives and pilot projects where the ecosystem approach is the underlying principle;
+   (c) Implement further capacity‑building initiatives to applying the ecosystem approach, using, _inter alia_, regional training workshops, the tools made available through the Source Book and other sources of information, as appropriate;
+   (d) Recalling its decisions [VI/12](https://www.cbd.int/decisions/cop/06/12), paragraph [2 (a)](https://www.cbd.int/decisions/cop/06/12/02.01), and [VII/11](https://www.cbd.int/decisions/cop/07/11), paragraph [9 (d)](https://www.cbd.int/decisions/cop/07/11/09.04), _urges_ Parties, indigenous and local communities and relevant organizations, and _invites_ other Governments, to continue submitting case-studies and lessons learned and provide further technical input to the Source Book;
+   (e) Further facilitate, the full and effective participation of indigenous and local communities in the development of tools and mechanisms to strengthen and expand the application of the ecosystem approach;
+
+2. _Invites_ Parties to:
+   (a) Take into account the application of the ecosystem approach in the achievement of the Millennium Development Goals and climate-change adaptation and mitigation activities;
+   (b) Develop effective cooperation at all levels for the effective application and monitoring of the ecosystem approach including its incorporation into poverty reduction strategies, as appropriate, mindful that the ecosystem approach can be applied effectively at local level, where communities can participate more directly, and where appropriate, local efforts need to be further enhanced;
+   (c) To provide a framework for the promotion of the ecosystem approach, as appropriate;
+   (d) Give consideration to the challenge of incorporating land and marine issues, including tenure, in the application of the ecosystem approach, in accordance with national policies, laws and guidelines and taking note of the United Nations Declaration on the Rights of Indigenous Peoples;
+   (e) Provide information on outcomes and progress in these activities through the national reporting process and their national clearinghouses;
+   (f) Develop guidelines for the application of the ecosystem approach for specific biogeographical regions and circumstances, where applicable and building upon existing efforts;
+   (g) Provide, as appropriate, financial and technical support for indigenous and local communities to carry out case-studies and projects applying the ecosystem approach consistent with national laws and traditional sustainable-use and resource-management systems;
+
+3. _Acknowledges_ the efforts of the Food and Agriculture Organization of the United Nations in advancing the ecosystem approach within its areas of competence and _invites_ the Food and Agriculture Organization of the United Nations to further apply the ecosystem approach, in cooperation with other relevant organizations;
+
+4. _Invites_ the United Nations Educational, Scientific and Cultural Organization and the Ramsar Convention on Wetlands to further their activities in relation to the ecosystem approach in particular, _inter alia,_ within the World Network of Biosphere Reserves, World Heritage Sites, and Wetlands of International Importance (Ramsar sites) as appropriate, as ecosystem‑approach research and demonstration sites;
+
+5. _Requests_ the Executive Secretary, subject to the availability of resources, to:
+   (a) Prepare easy-to-understand communication materials and manuals on applying the ecosystem approach, tailored to different user-groups, and ensure its adequate dissemination through the Source Book, national focal points, and other means;
+   (b) Carry out an analysis to identify key user groups of the Source Book and their needs, for example, by a website tracker and a website user survey, and on this basis, further improve the contents and structure of the Source Book;
+   (c) Further compile and make available, through the Source Book, links to other relevant sources and toolkits, supporting the application of the ecosystem approach and other similar approaches; and
+   (d) Include promotion and wider application of the ecosystem approach in the preparation of the strategy for the International Year of Biodiversity in 2010, as a means to implement the Convention in an integrated way;
+
+6. _Encourages_ Parties, other Governments and relevant organizations, including the United Nations Environment Programme through its Ecosystem Management Programme, to support the Executive Secretary in carrying out the activities, as described in paragraphs 2 and 5 above;
+
+7. _Invites_ the Global Environment Facility, in accordance with its mandate, and other funding institutions and development agencies to provide financial support for the implementation of the ecosystem approach by developing countries, particularly the least developed and small island developing States, and countries with economies in transition, and encourages bilateral and multilateral donor agencies to apply the ecosystem approach in providing aid assistance.
